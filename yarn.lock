@@ -888,6 +888,13 @@
   dependencies:
     regenerator-runtime "^0.13.4"
 
+"@babel/runtime@^7.16.7":
+  version "7.17.2"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.17.2.tgz#66f68591605e59da47523c631416b18508779941"
+  integrity sha512-hzeyJyMA1YGdJTuWU0e/j4wKXrU4OMFvY2MSlaI9B7VQb0r5cxTE3EAIS2Q7Tn2RIcDkRvTA/v2JsAEhxe99uw==
+  dependencies:
+    regenerator-runtime "^0.13.4"
+
 "@babel/template@^7.8.3", "@babel/template@^7.8.6":
   version "7.8.6"
   resolved "https://registry.yarnpkg.com/@babel/template/-/template-7.8.6.tgz#86b22af15f828dfb086474f964dcc3e39c43ce2b"
@@ -1166,12 +1173,12 @@
   resolved "https://registry.yarnpkg.com/@types/q/-/q-1.5.2.tgz#690a1475b84f2a884fd07cd797c00f5f31356ea8"
   integrity sha512-ce5d3q03Ex0sy4R14722Rmt6MT07Ua+k4FwDfdcToYJcMKNtRVQvJ6JCAPdAmAnbRb6CsX6aYb9m96NGod9uTw==
 
-"@violentmonkey/shortcut@^1.2.4":
-  version "1.2.4"
-  resolved "https://registry.yarnpkg.com/@violentmonkey/shortcut/-/shortcut-1.2.4.tgz#79ccc864c97fb5a41ee8ca8e6577d3f58ece657a"
-  integrity sha512-+yIk0ncpidohABMdYozrLtWqjKAdTwj93lcUK3RFgsirzVVABQbZy5+SqlmOvFqeaLnf17RHqnycjCTWeTlmQA==
+"@violentmonkey/shortcut@^1.2.5":
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/@violentmonkey/shortcut/-/shortcut-1.2.6.tgz#75869254597cb3560eadf37886a12b1e963c68b1"
+  integrity sha512-hhmLZFEQUF3tw8ccZvrT2e9CPn0CN8L+2qZVP3n7SmPIYOQD8ai3uM5yYt+Fp9XcuCkQweLaMkoCJRWA8bHpXw==
   dependencies:
-    "@babel/runtime" "^7.13.10"
+    "@babel/runtime" "^7.16.7"
 
 "@vue/component-compiler-utils@^3.1.0":
   version "3.1.1"
